@@ -4,11 +4,11 @@ img{
 }
 
 .w3-container.hero-image{
-  background: url('images/etusivun_kuva.jpg') no-repeat top fixed;
+  /*background: url('images/etusivun_kuva.jpg') no-repeat top fixed;
   background-size: cover;
-
+*/
   width: 100%;
-  height:60vh;
+  height:auto;
   margin-bottom: 3em;
 }
 footer {
