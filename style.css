@@ -1,15 +1,22 @@
+body{
+  padding: 0;
+  margin:0;
+  background-color: #e2ac8e;
+}
 img{
   width: 100%;
   height: auto;
 }
 
 .w3-container.hero-image{
-  /*background: url('images/etusivun_kuva.jpg') no-repeat top fixed;
-  background-size: cover;
-*/
+
   width: 100%;
   height:auto;
   margin-bottom: 3em;
+}
+.etusivu{
+  width:65%;
+  margin: 0 auto;
 }
 footer {
   margin-top: 3em;
