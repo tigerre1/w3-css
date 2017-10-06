@@ -12,7 +12,7 @@ img{
 }
 .hero-image::after{
   content: "";
-  background: url(https://photos-5.dropbox.com/t/2/AAAu7Drapp8G4eYxqGHZsQt6dFbKFOyTbaucUT9BArZ0dw/12/4711381/jpeg/32x32/3/1507226400/0/2/DSCN7651.jpg/EP_mwwMYjLzMASACKAI/Dm_rPXyG0f3V2eGEDa6vpGhhdvzvH2wJiH3bGjB2164?dl=0&size=1280x960&size_mode=3) no-repeat center fixed;
+  background: url('images/etusivun_kuva.jpg') no-repeat center fixed;
   background-size: cover;
   width: 100%;
   height:40vh;
